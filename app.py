@@ -95,7 +95,7 @@ def movie_trailer(id):
         first_trailer_key = trailers[0]['key']
         trailer_url = f'https://www.youtube.com/watch?v={first_trailer_key}'
     else:
-        trailer_url = f'https://www.youtube.com/watch?v=kSJEmBeVfSg'
+        trailer_url = f'https://www.youtube.com/watch?v=8E31ZkAYsSw'
     return trailer_url
 
 
