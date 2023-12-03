@@ -1,0 +1,7 @@
+IMDbPY
+numpy
+pandas
+requests
+scikit-learn
+spacy
+streamlit
